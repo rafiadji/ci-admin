@@ -13,6 +13,6 @@ class Home extends CI_Controller {
 		$this->template->title = 'Dashboard';
 		$this->template->page->title = 'Dashboard';
 		$this->template->content->view('home');
-        $this->template->publish();
+        $this->template->publish('layouts/back/base');
 	}
 }
