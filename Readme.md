@@ -1,7 +1,7 @@
 # CI-ADMIN
 CI-ADMIN adalah source framework Codeigniter menggunakan template AdminLTE
 
-## Versi 1.0
+## Versi 0.0.1
 
 Versi code yang digunakan sebagai berikut : 
 - Codeigniter-3.1.11
